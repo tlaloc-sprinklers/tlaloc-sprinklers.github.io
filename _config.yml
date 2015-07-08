@@ -1,0 +1,13 @@
+# Site settings
+title: Tlāloc Sprinklers
+title_split_1: Tlāloc
+title_split_2: Sprinklers
+email: defektive.development@gmail.com
+description: Open source sprinkler control
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tlaloc-sprinklers.github.io" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  tlaloc-sprinklers
+
+# Build settings
+markdown: kramdown
