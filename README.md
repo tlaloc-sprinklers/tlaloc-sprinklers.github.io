@@ -1,1 +1,3 @@
-initial commit
+# 沃 Tlāloc
+
+Main site for Tlāloc: open source sprinkler control.
