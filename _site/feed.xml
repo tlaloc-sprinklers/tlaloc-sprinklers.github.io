@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tlāloc Sprinklers</title>
+    <title>Tlālok Sprinklers</title>
     <description>Open source sprinkler control</description>
-    <link>http://tlaloc-sprinklers.github.io/</link>
-    <atom:link href="http://tlaloc-sprinklers.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://tlalok-sprinklers.github.io/</link>
+    <atom:link href="http://tlalok-sprinklers.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <pubDate>Sun, 19 Jul 2015 20:31:12 -0600</pubDate>
     <lastBuildDate>Sun, 19 Jul 2015 20:31:12 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Thu, 16 Apr 2015 12:30:39 -0600</pubDate>
-        <link>http://tlaloc-sprinklers.github.io/jekyll/update/2015/04/16/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://tlaloc-sprinklers.github.io/jekyll/update/2015/04/16/welcome-to-jekyll.html</guid>
+        <link>http://tlalok-sprinklers.github.io/jekyll/update/2015/04/16/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://tlalok-sprinklers.github.io/jekyll/update/2015/04/16/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>

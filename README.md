@@ -1,3 +1,3 @@
-# 沃 Tlāloc
+# 沃 Tlālok
 
-Main site for Tlāloc: open source sprinkler control.
+Main site for Tlālok: open source sprinkler control.
